@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.idea
+.vscode
+.temp
+.DS_Store
+.env
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Sandbox & Temporary folders
+.temp/
+.temp
+reports/
+*.log

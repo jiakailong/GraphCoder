@@ -1,0 +1,16 @@
+{
+  "name": "imooc-ebook-api",
+  "version": "1.0.0",
+  "description": "Node.js API for imooc ebook application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node.js", "mysql", "api"],
+  "author": "Sam",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.15.1"
+  }
+}
